@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "sqlproj: Build sutsatatyn juye",
+			"type": "process",
+			"command": "dotnet",
+			"args": [
+				"build",
+				"c:/Users/HONOR/OneDrive/Desktop/АЖ негіздері/Milk-s-system/sutsatatyn juye/sutsatatyn juye.sqlproj"
+			],
+			"problemMatcher": "$sqlproj-problem-matcher",
+			"isBackground": true,
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "Builds the sutsatatyn juye SQL project"
+		}
+	]
+}
