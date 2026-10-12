@@ -1,4 +1,2 @@
 
 # Milk system
-БИЛАЛ
-ЯД
